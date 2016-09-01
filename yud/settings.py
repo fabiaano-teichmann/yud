@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'yud.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
-
+#configurações locais. marcar para que essas config não subam ao github
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 

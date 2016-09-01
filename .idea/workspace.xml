@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5a79ed-1021-4ff5-8cc7-25c206a94699" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appyud/models.py" afterPath="$PROJECT_DIR$/appyud/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appyud/views.py" afterPath="$PROJECT_DIR$/appyud/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yud/urls.py" afterPath="$PROJECT_DIR$/yud/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yud/settings.py" afterPath="$PROJECT_DIR$/yud/settings.py" />
     </list>
     <ignored path="yud.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,11 +83,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listar_post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="listar_post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/appyud/templates/appyud/listar_post.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yud/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -108,6 +117,7 @@
         <option value="$PROJECT_DIR$/appyud/models.py" />
         <option value="$PROJECT_DIR$/appyud/views.py" />
         <option value="$PROJECT_DIR$/appyud/templates/appyud/listar_post.html" />
+        <option value="$PROJECT_DIR$/yud/settings.py" />
       </list>
     </option>
   </component>
@@ -503,6 +513,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yud/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
           <folding />
         </state>
       </provider>
