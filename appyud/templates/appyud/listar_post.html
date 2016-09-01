@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Blog Django</title>
+    </head>
+    <body>
+
+
+
+            {% for post in posts %}
+
+            <h1> <a href="">{{ post.titulo }}</a> <h1/>
+            <h2> {{ post.sub_titulo }}</h2>
+            <p> {{ post.texto}} </p>
+
+           {% endfor %}
+
+
+
+    </body>
+</html>
